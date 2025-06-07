@@ -9,7 +9,7 @@ I write code for fun and learning—especially Telegram bots and helpful small p
 
 ## 🚀 Favorite Projects
 
-- [**LightDB**](https://github.com/ATiKE1/LightDB): My take on a lightweight work with database (SSMS).
+- [**LightDB**](https://github.com/ATiKE1/LightDB): My take on a lightweight work with database (Microsoft SQL Server).
 - [**First-Boot-Installer**](https://github.com/ATiKE1/First-Boot-Installer): Automates setup on first boot for new systems.
 
 ## 📝 About Me
