@@ -7,10 +7,11 @@ I write code for fun and learning—especially Telegram bots and helpful small p
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-## 🚀 Favorite Projects
+## 🚀 My Projects
 
 - [**LightDB**](https://github.com/ATiKE1/LightDB): My take on a lightweight work with database (Microsoft SQL Server).
 - [**First-Boot-Installer**](https://github.com/ATiKE1/First-Boot-Installer): Automates setup on first boot for new systems.
+- [**Watermarker**](https://github.com/ATiKE1/watermarker): Simple web app for add custom watermark on images
 
 ## 📝 About Me
 
