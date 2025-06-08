@@ -13,6 +13,7 @@ I write code for fun and learning—especially Telegram bots and helpful small p
 - [**First-Boot-Installer**](https://github.com/ATiKE1/First-Boot-Installer): Automates setup on first boot for new systems.
 - [**Watermarker**](https://github.com/ATiKE1/watermarker): Simple web app for add custom watermark on images
 - [**CV2 Cats Finder**](https://github.com/ATiKE1/cv2-cats-finder): Simple app for find cats on image with use OpenCV-Python
+- [**Discord OAuth Flask**](https://github.com/ATiKE1/discord-oauth): Flask server with discord oauth example
 
 ## 📝 About Me
 
