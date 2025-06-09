@@ -14,6 +14,7 @@ I write code for fun and learning—especially Telegram bots and helpful small p
 - [**Watermarker**](https://github.com/ATiKE1/watermarker): Simple web app for add custom watermark on images
 - [**CV2 Cats Finder**](https://github.com/ATiKE1/cv2-cats-finder): Simple app for find cats on image with use OpenCV-Python
 - [**Discord OAuth Flask**](https://github.com/ATiKE1/discord-oauth): Flask server with discord oauth example
+- [**Direct Linker**](https://github.com/ATiKE1/direct-linker): FastApi server for upload your files and get direct link to download
 
 ## 📝 About Me
 
