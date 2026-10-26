@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я [Komar](https://github.com/ATiKE1)
+# 👋 Привет, я [Nikita Orlov](https://github.com/ATiKE1)
 
 ### Fullstack-разработчик: веб-приложения, REST API и десктоп-клиенты
 
